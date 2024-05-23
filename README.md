@@ -26,3 +26,25 @@ This sophisticated simulation not only highlights my technical proficiency but a
 The topology looks like this:
 
 ![topology here](/img/top.png)
+
+An example of ping from the wifi branch to the server:
+
+![ping_lap_server](/img/laptop-server.png)
+
+DNS:
+
+![DNS](/img/dns.png)
+
+SSH connection:
+
+![SSH](/img/ssh.png)
+
+FTP:
+
+![FTP](/img/ftp.png)
+
+Mail service:
+
+![MAIL1](/img/mail1.png)
+
+![MAIL2](/img/mail2.png)
