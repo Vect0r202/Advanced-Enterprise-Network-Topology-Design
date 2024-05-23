@@ -22,3 +22,7 @@ EtherChannel: Utilizing the Port Aggregation Protocol (PAgP) to aggregate multip
 Port Security: Configured to restrict the incoming traffic on a switch port to a specified number of MAC addresses, which helps prevent unauthorized network access.
 Spanning Tree Protocol (STP): Employed to prevent network loops that are common in highly interconnected networks, ensuring a loop-free topology.
 This sophisticated simulation not only highlights my technical proficiency but also demonstrates a deep understanding of network design principles and the implementation of complex network services and security strategies in an enterprise setting.
+
+The topology looks like this:
+
+![topology here](/img/top.png)
