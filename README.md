@@ -1,7 +1,5 @@
 # Advanced-Enterprise-Network-Topology-Design
 
-**Project Status**
-The project is not yet available, it is currently in the testing and final review phases. Estimated upload: 27.04.2024.
 
 In my Advanced Enterprise Network Topology Design project, I constructed a robust simulation of an enterprise-grade network using Cisco Packet Tracer, emphasizing both complexity and high-level security measures. The project is designed around a multi-layer network architecture using VLANs to optimize traffic flow and segment the network efficiently, which is crucial for maintaining performance and security within a busy corporate environment.
 
